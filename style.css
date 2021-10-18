@@ -1,0 +1,32 @@
+body{
+    font-family: 'Anton', sans-serif;
+font-family: 'Roboto', sans-serif;
+    background-color: red;
+}
+img{
+    width: 600px;
+}
+p{
+    color: yellow;
+}
+h1{
+    color: blue;
+    font-weight: 400px;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+    width: 200px;
+    height: 65px;
+    background-color: cyan;
+    color: black;
+    text-align: center;
+    line-height: 65px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+a:hover{
+    background-color: inherit;
+    border: 2px solid black;
+    color: black;
+}
